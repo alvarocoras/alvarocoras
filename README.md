@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy [alvaro]
 
-<!--
-**alvarocoras/alvarocoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Desarrollador/a apasionado/a por la tecnología y el código limpio. Me interesa el desarrollo web, las redes y la automatización.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- 🖥️ HTML, CSS, JavaScript
+- ⚙️ Node.js, React, Python
+- 📁 Git & GitHub
+- 🖧 Redes y administración básica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+⭐ ¡Gracias por visitar mi perfil!
